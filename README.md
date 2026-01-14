@@ -11,19 +11,9 @@ Shipping small, useful automation tools:
 - In Progress: End-to-end relational database design and ETL optimization.
 
 
-### Tools
-**Core skills:**
+### Tools and skills
 
-![Python](https://skillicons.dev/icons?i=python) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-**Currently learning:**
-
-![Pandas](https://skillicons.dev/icons?i=pandas)
-
-**Next:**
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-
+[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
 
 ### Some facts about me
 - 🏋️‍♀️ Gym and running, prioritizing health
