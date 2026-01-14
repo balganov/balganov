@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**balganov/balganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently transitioning into Data Analytics & Data Science.
 
-Here are some ideas to get you started:
+This profile serves as a live portfolio for my latest projects, technical experiments, and ongoing learning journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Journey
+Shipping small, useful automation tools:
+
+- Current Project: CIS Tech Market Insights (Async APIs & Visualization)
+- In Progress: End-to-end relational database design and ETL optimization.
+
+
+### Tools
+**Core skills:**
+
+![Python](https://skillicons.dev/icons?i=python) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+**Currently learning:**
+
+![Pandas](https://skillicons.dev/icons?i=pandas)
+
+**Next:**
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+
+### Some facts about me
+- 🏋️‍♀️ Gym and running, prioritizing health
+- 📖 Avid reader
+- ♟️ Always up for a game
+- 🌿 Living a simple and slow-paced life
