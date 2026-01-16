@@ -17,6 +17,6 @@ Shipping small, useful automation tools:
 
 ## Some facts about me
 - 🏋️‍♀️ Gym and running, prioritizing health
-- 📖 Avid reader
+- 📖 Currently [HH: Demian]
 - ♟️ Always up for a game
 - 🌿 Living a simple and slow-paced life
