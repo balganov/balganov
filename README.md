@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am currently transitioning into Data Analytics & Data Science.
-
 This profile serves as a live portfolio for my latest projects, technical experiments, and ongoing learning journey.
 
 ## Data Journey
